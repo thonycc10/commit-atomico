@@ -1,8 +1,5 @@
 # commit-atomico
-pruebas de commit atomicos
+pruebas de commit atomicos 2
 
-este es mi primer commit 
-
-este es mi segundo commit
-
-este es mi tercer commit
+1 comentario 
+2 comentario 
